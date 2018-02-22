@@ -1,0 +1,46 @@
+@import "variables"
+
+
+html,
+body {
+  background: #cdcdcd;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+
+header,
+main,
+footer {
+
+  padding: $padding-default;
+}
+
+header {
+  background: #DCEDC8;
+}
+
+main {
+
+  background: white;
+  height: 100%;
+  padding: 16;
+
+
+}
+
+[name="produce-card"] {
+
+  border 1px solid black;
+  padding $padding-default
+  font
+  color: #DCEDC8;
+}
+
+footer {
+  background: #7CB342;
+}

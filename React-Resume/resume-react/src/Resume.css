@@ -1,0 +1,62 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+}
+
+
+.intro {
+    background: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5 )), url("./slc1.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+
+}
+
+h1 {
+
+    margin: 5px;
+    padding-top: 15px;
+    font-family: 'Archivo Narrow', sans-serif;
+}
+
+h4 {
+
+    margin: 0px;
+    padding: 0;
+    font-family: 'Archivo Narrow', sans-serif;
+}
+
+.blur {
+    background: url(./slc1.jpg) no-repeat center center fixed;
+    background-size: cover;
+    overflow: hidden;
+    filter: blur(13px);
+    position: absolute;
+    height: 300px;
+    top: -50px;
+    left: -50px;
+    right: -50px;
+    bottom: -50px;
+}
+
+.widget {
+    border-top: 2px solid rgba(255, 255, 255, .5);
+    border-bottom: 2px solid rgba(255, 255, 255, .5);
+    height: 100px;
+    width: 30%;
+    overflow: hidden;
+}
+
+.center {
+    position: absolute;
+    margin: auto;
+    text-align: center;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: #ffffff;
+}
+

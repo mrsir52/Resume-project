@@ -1,0 +1,27 @@
+<myfamily>
+    <dad ID="me”>
+        <name>Manny</name>
+        <age>41</age>
+        <gender>male</gender>
+    </dad>
+    <mom ID=“wife”>
+        <name>Amy</name>
+        <age>37</age>
+        <gender>female</gender>
+    </mom>
+    <child ID=“son”>
+        <name>Tyson</name>
+        <gender>male</gender>
+        <age>41</age>
+    </child>
+    <child ID=“daughter”>
+        <name>Nichole</name>
+        <gender>femail</gender>
+        <age>12</age>
+    </child>
+    <pet ID=“dog”>
+        <name>Evee</name>
+        <age>2</age>
+        <gender>female</gender>
+    </pet>
+</myFamily>

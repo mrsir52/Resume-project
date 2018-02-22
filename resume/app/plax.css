@@ -1,0 +1,52 @@
+body {
+
+  background-color: aqua;
+}
+
+/*---------------Top------------------*/
+
+.top {
+
+background-color: bisque;
+padding: 20px;
+display: flex;
+align-content: center;
+justify-content: center;
+}
+/*---------------Top------------------*/
+
+
+
+.center-middle {
+
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  border: 2px solid black;
+  margin: 5px;
+  padding: 20px;
+}
+
+.center-right {
+
+  border: 2px solid black;
+  margin: 5px;
+  padding: 20px;
+}
+.bottom {
+
+  background-color: brown;
+  margin-top: 10px;
+
+}
+
+.headshot {
+ 
+  border-radius: 50%;
+  
+}
+
+img {
+
+  height: 150px;
+}
