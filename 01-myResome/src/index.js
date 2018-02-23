@@ -15,7 +15,7 @@ class Resume extends React.Component {
                     <AboutMe />
                 </div>
 
-                <div>
+                <div class="intro">
 
 
                 </div>
