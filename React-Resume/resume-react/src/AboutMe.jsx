@@ -40,8 +40,8 @@ export default class AboutMe extends React.Component {
 
                         <div className="contact-me">
                             <h4>Connect with me on LinkedIn or view some of my code.</h4>
-                            <img class="icon link" src={link} width={50} height={50} alt="react logo" />
-                            <img class="icon link" src={github1} width={50} height={50} alt="react logo" />
+                            <a href="https://www.linkedin.com/in/manny-torres-ut/"><img class="icon link" src={link} width={50} height={50} alt="react logo" /></a>
+                            <a href="https://github.com/mrsir52"><img class="icon link" src={github1} width={50} height={50} alt="react logo" /></a>
                         </div>
                     </div>
                     <div class="col-7">
