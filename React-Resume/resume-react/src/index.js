@@ -16,7 +16,7 @@ class Resume extends React.Component {
                 </div>
 
                 <div>
-                    <ContactMe />
+
 
                 </div>
 

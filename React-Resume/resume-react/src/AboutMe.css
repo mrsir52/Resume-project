@@ -1,11 +1,11 @@
 aboutme-div {
 
-    height: 100vh;
+    height: 100hv;
 }
 
 .top {
 
-    margin-top: 45px;
+    margin-top: 15px;
     padding-top: 15px;
     display: flex;
     align-content: center;
@@ -41,21 +41,64 @@ img {
 }
 
 
-p {
+.about-me-p {
 
-    padding: 0;
-    font-size: 10px;
+    padding: 20px;
+    font-size: 15px;
+    margin-left: 20px;
+    tex: center;
+
+
 }
 
 h2 {
     text-align: center;
     margin: 30px;
     font-family: 'Archivo Narrow', sans-serif;
+    font-size: 35px;
+
 
 }
 
 h3 {
-    padding-top: 15px;
+    padding: 0;
     font-family: 'Archivo Narrow', sans-serif;
+    font-size: 35px;
+    text-align: center;
 
+}
+
+.help {
+    color: rebeccapurple;
+    font-size: 35px;
+
+}
+
+.grid-style {
+
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.contact-me {
+
+    padding-top: 20px;
+    margin-top: 20px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+}
+
+h4 {
+
+    padding-bottom: 15px;
+    margin-bottom: 10px;
+}
+
+.link {
+
+    padding-left: 15px;
+    padding-right: 15px;
 }

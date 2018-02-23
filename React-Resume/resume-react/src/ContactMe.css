@@ -30,12 +30,10 @@ contact-div {
 h3 {
 
     margin-top: 25px;
-    /*font-size: 35px;*/
+    font-size: 35px;
 }
 
-p {
-    /*font-size: 20px;*/
-}
+
 .contact-nav {
 
     display: flex;
@@ -46,4 +44,3 @@ p {
 
 
 }
-
