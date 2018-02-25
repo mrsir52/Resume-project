@@ -16,7 +16,7 @@ export default class Resume extends React.Component {
 
                     <div class="col-4 center">
                         <h1 class="">Manny Torres</h1>
-                        <h4 >Front End Developer</h4>
+                        <h4 >Full Stack Developer</h4>
                     </div>
 
                 </div>
