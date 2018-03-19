@@ -2,17 +2,11 @@
   text-align: center;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
-}
-
-.header-div {
-  background-color: #222;
-  height: 70px;
-  padding: 20px;
-  color: white;
-  text-align: center;
+.App-header {
+  background-color: black;
+  height: 75px;
+  padding: 5px;
+  color: dodgerblue;
 }
 
 .App-title {
@@ -26,4 +20,30 @@
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
+}
+
+.tic-tac {
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+.row > div {
+  margin: 0px;
+  display: inline-block;
+  font-size: 90px;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  padding: 0px;
+  vertical-align: top;
+  line-height: 100px;
+
+}
+
+.right {
+  border-right: solid 7px darkorchid;
+}
+
+
+.bottom {
+  border-bottom: solid 7px darkorchid;
 }
